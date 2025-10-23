@@ -1,4 +1,5 @@
 ☕ Cafeteria BomGosto – Controle de Vendas
+
 📋 Descrição
 
 Este projeto faz parte da atividade 08 do curso Dev. Full Stack Jr. (+praTi & COdifica). 
@@ -31,6 +32,7 @@ Nº	Descrição da Consulta
 3	Calcular o valor total de cada comanda
 4	Listar comandas com mais de um tipo de café
 5	Exibir o faturamento total por data
+
 ▶️ Como Executar
 
 Copie o conteúdo do script SQL.
